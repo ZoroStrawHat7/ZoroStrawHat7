@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zoro • StrawHat</h1>
+<h2 align="center">Hi, I'm Zoro • StrawHat</h2>
 <h3 align="center">A developer for fun.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZoroStrawHat7&label=Profile%20views&color=0e75b6&style=flat" alt="ZoroStrawHat7" /> </p>

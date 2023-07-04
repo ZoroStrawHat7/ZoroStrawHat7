@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZoroStrawHat7&label=Profile%20views&color=0e75b6&style=flat" alt="ZoroStrawHat7" /> </p>
 
-- I’m currently working on [Nami BOT](https://telegram.dog/Nami_StrawHatBOT)
+- I’m currently working on [Giveaway BOT](https://telegram.dog/StrawHat_GiveawayBOT)
 
 - I’m currently learning **python**
 
